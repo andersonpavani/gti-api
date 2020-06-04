@@ -1,2 +1,2 @@
 # gti-service
-GTI - Gestor de Tesouraria para Igrejas - API REST (Backend)
+GTI - Gestor de Tesouraria para Igrejas - Backend
